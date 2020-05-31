@@ -1,6 +1,6 @@
 Thanks for using my SpeechToText discord bot :)
 Step 1) Run VoiceRecognition.py and enter the index of the audio device you
-wish to use from 'get_mics.py'
+wish to use from the given list
 Step 2) Change the token at the top of 'VoiceToTextBot.py' to
 that of your bot
 Step 3) Run 'VoiceToTextBot.py'
