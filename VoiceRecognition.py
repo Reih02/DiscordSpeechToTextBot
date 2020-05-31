@@ -1,7 +1,8 @@
 import speech_recognition as sr
 
 r = sr.Recognizer()
-
+mic = sr.Microphone()
+print (sr.Microphone.list_microphone_names())
 device = int(input("Please enter the index of the audio device you wish to use: "))
 
 while True:
